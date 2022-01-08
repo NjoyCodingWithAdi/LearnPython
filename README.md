@@ -10,7 +10,7 @@ https://www.analyticsvidhya.com/blog/2022/01/top-10-github-repositories-for-data
 
 #LinkedInLearning
 
-Basics of AI/Ml - https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=58256457
+Basics of AI/ML - https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=58256457
 
 AI/ML for Business Leaders - https://www.linkedin.com/learning/artificial-intelligence-for-business-leaders/welcome-to-the-course?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=58256457
 
