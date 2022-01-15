@@ -103,3 +103,9 @@ Machine Learning :- https://www.geeksforgeeks.org/machine-learning/?ref=shm
 Monolithic vs Microservices :- https://www.geeksforgeeks.org/monolithic-vs-microservices-architecture/?ref=leftbar-rightbar
 
 # Coursera
+
+# NumPy
+
+https://numpy.org/
+
+https://www.w3schools.com/python/numpy/default.asp
