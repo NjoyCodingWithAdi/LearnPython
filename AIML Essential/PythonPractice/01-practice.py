@@ -30,4 +30,3 @@ def email_gen(name):
     return email.lower()+'@gmail.com'
 
 print(email_gen('Test One'))
-
