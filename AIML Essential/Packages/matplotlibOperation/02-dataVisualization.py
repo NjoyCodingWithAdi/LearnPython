@@ -22,5 +22,3 @@ print(data.head())
 plt.figure()
 plt.plot(data['Annual Income (k$)'])
 plt.show()
-
-

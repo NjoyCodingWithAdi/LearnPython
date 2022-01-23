@@ -20,7 +20,5 @@ import matplotlib as plt
 
 data = pd.read_csv('Mall_Customers.csv')
 print(data.head())
-plt.figure()
 plt.plot(data['Annual Income (k$) '])
 plt.show()
-

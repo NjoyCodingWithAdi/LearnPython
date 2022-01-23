@@ -8,6 +8,7 @@ numpy = "*"
 pandas = "*"
 openpyxl = "*"
 matplotlib = "*"
+pyarrow = "*"
 
 [dev-packages]
 
